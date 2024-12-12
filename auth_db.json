@@ -1,0 +1,7 @@
+{
+  "discord_id": {
+    "key": "generated_key",
+    "device_id": null,
+    "expiry_time": "datetime_iso_format"
+  }
+}
