@@ -1,7 +1,7 @@
 {
-    "Q9271I8X51": {
-        "discord_id": "805420102409256991",
-        "hwid": "1031c59b16c50b3fddf63689b398bed1b98696a90f49a4b594201fcbb6dfecca",
-        "ban": null
-    }
+  "Q9271I8X51": {
+    "discord_id": "805420102409256991",
+    "hwid": "1031c59b16c50b3fddf63689b398bed1b98696a90f49a4b594201fcbb6dfecca",
+    "ban": true
+  }
 }
