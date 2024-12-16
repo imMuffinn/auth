@@ -1,12 +1,12 @@
 {
-  "ZO01OEIW31": {
-    "discord_id": "805420102409256991",
-    "hwid": "1031c59b16c50b3fddf63689b398bed1b98696a90f49a4b594201fcbb6dfecca",
-    "ban": null
-  },
-  "1US24JLE3H": {
-    "discord_id": "936558446831099974",
-    "hwid": null,
-    "ban": null
-  }
+    "ZO01OEIW31": {
+        "discord_id": "805420102409256991",
+        "hwid": "1031c59b16c50b3fddf63689b398bed1b98696a90f49a4b594201fcbb6dfecca",
+        "ban": null
+    },
+    "1US24JLE3H": {
+        "discord_id": "936558446831099974",
+        "hwid": "999ace28b4b1a575713b8116a97d06906c06c4748fef12abbc20a894042bc29a",
+        "ban": null
+    }
 }
