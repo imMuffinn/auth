@@ -1,17 +1,17 @@
 {
-  "35RKF9DJSV": {
-    "discord_id": "805420102409256991",
-    "hwid": "03444784e3ec9f5bb10bba9a79f6e999",
-    "ban": null
-  },
-  "6YGRCRZNWH": {
-    "discord_id": "1164049255653199983",
-    "hwid": "c6c2c90f41e1e81f84b53a712bb8577a",
-    "ban": null
-  },
-  "RCFQOMTRBO": {
-    "discord_id": "1223442351876345860",
-    "hwid": null,
-    "ban": null
-  }
+    "35RKF9DJSV": {
+        "discord_id": "805420102409256991",
+        "hwid": "03444784e3ec9f5bb10bba9a79f6e999",
+        "ban": null
+    },
+    "6YGRCRZNWH": {
+        "discord_id": "1164049255653199983",
+        "hwid": "c6c2c90f41e1e81f84b53a712bb8577a",
+        "ban": null
+    },
+    "RCFQOMTRBO": {
+        "discord_id": "1223442351876345860",
+        "hwid": "37d1c71eb6d51988dc17c7bc5d1a4f26",
+        "ban": null
+    }
 }
