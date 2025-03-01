@@ -1,37 +1,37 @@
 {
-  "35RKF9DJSV": {
-    "discord_id": "805420102409256991",
-    "hwid": "03444784e3ec9f5bb10bba9a79f6e999",
-    "ban": null
-  },
-  "6YGRCRZNWH": {
-    "discord_id": "1164049255653199983",
-    "hwid": "c6c2c90f41e1e81f84b53a712bb8577a",
-    "ban": null
-  },
-  "RCFQOMTRBO": {
-    "discord_id": "1223442351876345860",
-    "hwid": "37d1c71eb6d51988dc17c7bc5d1a4f26",
-    "ban": null
-  },
-  "9ZSCS78OA7": {
-    "discord_id": "1103178687312056432",
-    "hwid": "3112fb79a5706f74ebea482dea42b3d7",
-    "ban": null
-  },
-  "A7B9F2K3L1": {
-    "discord_id": "936558446831099974",
-    "hwid": "5042aa4aa53be0db0c1267859b19eb75",
-    "ban": null
-  },
-  "P5Q3X8H7D4": {
-    "discord_id": "590156274117771295",
-    "hwid": "ab374b38c39043084c69d86240c6b2bd",
-    "ban": null
-  },
-  "XJ95KM3FX6": {
-    "discord_id": "1189312951543419032",
-    "hwid": null,
-    "ban": null
-  }
+    "35RKF9DJSV": {
+        "discord_id": "805420102409256991",
+        "hwid": "03444784e3ec9f5bb10bba9a79f6e999",
+        "ban": null
+    },
+    "6YGRCRZNWH": {
+        "discord_id": "1164049255653199983",
+        "hwid": "c6c2c90f41e1e81f84b53a712bb8577a",
+        "ban": null
+    },
+    "RCFQOMTRBO": {
+        "discord_id": "1223442351876345860",
+        "hwid": "37d1c71eb6d51988dc17c7bc5d1a4f26",
+        "ban": null
+    },
+    "9ZSCS78OA7": {
+        "discord_id": "1103178687312056432",
+        "hwid": "3112fb79a5706f74ebea482dea42b3d7",
+        "ban": null
+    },
+    "A7B9F2K3L1": {
+        "discord_id": "936558446831099974",
+        "hwid": "5042aa4aa53be0db0c1267859b19eb75",
+        "ban": null
+    },
+    "P5Q3X8H7D4": {
+        "discord_id": "590156274117771295",
+        "hwid": "ab374b38c39043084c69d86240c6b2bd",
+        "ban": null
+    },
+    "XJ95KM3FX6": {
+        "discord_id": "1189312951543419032",
+        "hwid": "6e005737ecb71c5742980d97147216e2",
+        "ban": null
+    }
 }
